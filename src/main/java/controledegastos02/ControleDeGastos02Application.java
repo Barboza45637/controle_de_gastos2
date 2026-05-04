@@ -1,4 +1,4 @@
-package controle_de_gastos02;
+package controledegastos02;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
